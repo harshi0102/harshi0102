@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Harshika Govind</b>
+</h1>
 
-<!--
-**harshi0102/harshi0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p style="text-align: justify;">Hi! I am Harshika Govind, an accomplished Full-Stack software engineer, entrepreneur, and branding specialist with experience in developing and co-founding tech startups. As a leader, I enjoy problem-solving, ideating, conceptualizing, and producing consumer-centric technology. I've spent the last several months working remotely and asynchronously using pair programming with people across different cultures to lead and build real-world projects. 
+ I have a degree in Computer Science and am comfortable at all levels of the software development stack. 
+<br>
+<b>Interested to talk more? lets schedule a zoom chat!</b>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
+![Ruby](https://img.shields.io/badge/-ruby-05122A?style=flat&logo=ruby)
+![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rubyonrails)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
+![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
+![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-05122A?style=flat&logo=adobe-illustrator)
+![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-05122A?style=flat&logo=adobe-photoshop)
+![Adobe InDesign](https://img.shields.io/badge/-AdobeInDesign-05122A?style=flat&logo=adobe-indesign)
+![Adobe AfterEffect](https://img.shields.io/badge/-AdobeAfterEffects-05122A?style=flat&logo=adobe-after-effects)
+![Adobe Premiere](https://img.shields.io/badge/-AdobePremiere-05122A?style=flat&logo=adobe-premiere-pro)
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobe-xd)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
