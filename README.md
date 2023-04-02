@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi0102&label=Profile%20views&color=0e75b6&style=flat" alt="harshi0102" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshi0102" alt="harshi0102" /></a> </p>
+<p align="left"> <a href="https://github.com/harshi0102/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshi0102" alt="harshi0102" /></a> </p>
 
 - 🔭 I’m currently working on **Awesome Book With ES6 (Advanced Javascript)**
 
