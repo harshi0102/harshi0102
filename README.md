@@ -4,7 +4,7 @@
 #### **I am an accomplished Full-Stack software engineer, entrepreneur, and branding specialist with experience in developing and co-founding tech startups. As a leader, I enjoy problem-solving, ideating, conceptualizing, and producing consumer-centric technology. I've spent the last several months working remotely and asynchronously using pair programming with people across different cultures to lead and build real-world projects. I have a degree in Computer Science and am comfortable at all levels of the software development stack**  
   
 
-- 🔭 I’m currently working on Ruby   
+- 🔭 I’m currently working on Book List Projects of Ruby Programming Language   
   
 
 - 🌱 I’m currently learning Ruby 
