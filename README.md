@@ -6,14 +6,20 @@ Full Stack Web Developer
 
 I am an accomplished Full-Stack software engineer, entrepreneur, and branding specialist with experience in developing and co-founding tech startups. As a leader, I enjoy problem-solving, ideating, conceptualizing, and producing consumer-centric technology. I've spent the last several months working remotely and asynchronously using pair programming with people across different cultures to lead and build real-world projects. I have a degree in Computer Science and am comfortable at all levels of the software development stack
 
-*   🌍  I'm based in Delhi,India
-*   ✉️  You can contact me at [harshika0102@gmail.com](mailto:harshika0102@gmail.com)
-*   🚀  I'm currently working on [Microverse Projects](http://github.com/harshi0102/todolist)
-*   🧠  I'm learning creating projects utilizing technologies such as React, Redux, Python,and Ruby
-*   🤝  I'm open to collaborating on Interesting Projects<a href="https://www.github.com/harshi0102" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/harshi0102?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/harshika0102me" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/harshika0102me?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+* 🌍  I'm based in Delhi,India
+* ✉️  You can contact me at [harshika0102@gmail.com](mailto:harshika0102@gmail.com)
+* 🚀  I'm currently working on [Microverse Projects](http://github.com/harshi0102/todolist)
+* 🧠  I'm learning creating projects utilizing technologies such as React, Redux, Python,and Ruby
+* 🤝  I'm open to collaborating on Interesting Projects
+
+<a href="https://www.github.com/harshi0102" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/harshi0102?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/harshika0102me" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/harshika0102me?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -36,21 +42,24 @@ I am an accomplished Full-Stack software engineer, entrepreneur, and branding sp
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/harshi0102" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/harshikagovind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/harshika012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/harshika0102me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/harshi0102"><img src="https://github-readme-stats.vercel.app/api?username=harshi0102&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harshi0102's GitHub stats" /></a><a
-                      href="http://www.github.com/harshi0102"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=harshi0102&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/harshi0102"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshi0102&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/harshi0102" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi0102&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/harshi0102"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/harshi0102" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harshikagovind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/harshika012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/harshika0102me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/harshi0102"><img src="https://github-readme-stats.vercel.app/api?username=harshi0102&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harshi0102's GitHub stats" /></a>
+
+<a href="http://www.github.com/harshi0102"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshi0102&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/harshi0102"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshi0102&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/harshi0102" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi0102&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/harshi0102"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
