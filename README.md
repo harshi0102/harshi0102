@@ -1,13 +1,12 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Harshika Govind</h1>
 
-
-### Hi, I am Harshika Govind  
 #### **I am an accomplished Full-Stack software engineer, entrepreneur, and branding specialist with experience in developing and co-founding tech startups. As a leader, I enjoy problem-solving, ideating, conceptualizing, and producing consumer-centric technology. I've spent the last several months working remotely and asynchronously using pair programming with people across different cultures to lead and build real-world projects. I have a degree in Computer Science and am comfortable at all levels of the software development stack**  
   
 
-- 🔭 I’m currently working on Book List Projects of Ruby Programming Language   
+- 🔭 I'm currently enrolled in Microverse. 
   
 
-- 🌱 I’m currently learning Ruby 
+- 🌱 I'm studying and creating projects utilizing technologies such as JavaScript, React, Redux, Python,and Ruby
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
