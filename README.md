@@ -7,7 +7,7 @@ Full Stack Web Developer
 I am an accomplished Full-Stack software engineer, entrepreneur, and branding specialist with experience in developing and co-founding tech startups. As a leader, I enjoy problem-solving, ideating, conceptualizing, and producing consumer-centric technology. I've spent the last several months working remotely and asynchronously using pair programming with people across different cultures to lead and build real-world projects. I have a degree in Computer Science and am comfortable at all levels of the software development stack
 
 * 🌍  I'm based in Delhi,India
-* 🖥️  See my portfolio at [MyPortfolio](https://harshi0102.github.io/LivePortfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://harshi0102.github.io/Harshika-Portfolio/)
 * ✉️  You can contact me at [harshika0102@gmail.com](mailto:harshika0102@gmail.com)
 * 🚀  I'm currently working on [Microverse Projects](http://github.com/harshi0102/todolist)
 * 🧠  I'm learning creating projects utilizing technologies such as React, Redux, Python,and Ruby
