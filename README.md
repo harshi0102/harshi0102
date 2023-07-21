@@ -9,7 +9,7 @@ I am an accomplished Full-Stack software engineer, entrepreneur, and branding sp
 * 🌍  I'm based in Delhi,India
 * 🖥️  See my portfolio at [My Portfolio](http://harshi0102.github.io/LivePortfolio/)
 * ✉️  You can contact me at [harshika0102@gmail.com](mailto:harshika0102@gmail.com)
-* 🚀  I'm currently working on [Microverse React -Redux Projects](http://github.com/harshi0102/space-hub)
+* 🚀  I'm currently working on [Microverse React -Redux and Ruby on Rails Projects](http://github.com/harshi0102/space-hub)
 * 🧠  I'm learning Ruby on Rails and Python
 * 🤝  I'm open to collaborating on Interesting Projects
 
